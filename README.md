@@ -1,9 +1,9 @@
-Capa
+# Capa
 
-Título do Projeto: Sistema Inteligente de Diagnóstico de Falhas de Backup utilizando IA e Métricas do Zabbix/Veeam
-Nome do Estudante: Raniel Lira
-Curso: Engenharia de Software
-Data de Entrega: Dezembro/2025
+## Título do Projeto: Sistema Inteligente de Diagnóstico de Falhas de Backup utilizando IA e Métricas do Zabbix/Veeam
+## Nome do Estudante: Raniel Lira
+## Curso: Engenharia de Software
+## Data de Entrega: Dezembro/2025
 
 # Resumo
 
