@@ -178,23 +178,18 @@ Visão Inicial da Arquitetura
 
 Níveis recomendados:
 
-Contexto
+- Contexto
+- Contêineres
+- Componentes
+- Código
 
-Contêineres
-
-Componentes
-
-Código
-(Posso gerar os diagramas para você.)
-
-Mockups
+### Mockups
 
 Dashboard
 
 Tela do Job
 
 Tela de RCA
-(Posso gerar no Figma para você agora.)
 
 ### Decisões e Alternativas
 
