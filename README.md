@@ -1,9 +1,9 @@
 # Capa
 
-## Título do Projeto: Sistema Inteligente de Diagnóstico de Falhas de Backup utilizando IA e Métricas do Zabbix/Veeam
-## Nome do Estudante: Raniel Lira
-## Curso: Engenharia de Software
-## Data de Entrega: Dezembro/2025
+- Título do Projeto: Sistema Inteligente de Diagnóstico de Falhas de Backup utilizando IA e Métricas do Zabbix/Veeam
+- Nome do Estudante: Raniel Lira
+- Curso: Engenharia de Software
+- Data de Entrega: Dezembro/2025
 
 # Resumo
 
@@ -185,11 +185,15 @@ Níveis recomendados:
 
 ### Mockups
 
-Dashboard
+- Dashboard
 
-Tela do Job
+![Alt text](https://github.com/Ranilira/LLM4BACKUP/blob/main/Tela%20de%20Job%20%2B%20IA.png)
 
-Tela de RCA
+
+- Tela do Job & RCA
+
+![Alt text](https://github.com/Ranilira/LLM4BACKUP/blob/main/Tela%20de%20dashboards.png)
+
 
 ### Decisões e Alternativas
 
